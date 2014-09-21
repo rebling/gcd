@@ -4,7 +4,7 @@ author: "Richard Ebling"
 date: "09/21/2014"
 output: html_document
 ---
-When you click the **Knit** button a document will be generated that includes both 
+
 
 This data was obtained from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip , using wget under Linux, then unZIPped into an appropriate directory, with no other transformations.
 
